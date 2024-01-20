@@ -1,7 +1,7 @@
 
-🚀 Data Science Alumnus | 🛡️ Aspiring Information System Security Professional | 💻 Software Developer | 🌐 Leader | 🧠 Problem Solver | 🎤 Public Speaker
+### 🚀 Data Science Alumnus | 🛡️ Aspiring Information System Security Professional | 💻 Software Developer | 🌐 Leader | 🧠 Problem Solver | 🎤 Public Speaker
 
-### Hi there 👋 I'm Ivan Kibet, a seasoned data science professional who has recently ventured into the dynamic field of Information System Security. 📊 With a solid foundation in statistical analysis, machine learning, and data visualization, I bring a wealth of expertise to the realms of cybersecurity.
+### Hi there 👋 I'm Ivan Rugut, a seasoned data science professional who has recently ventured into the dynamic field of Information System Security. 📊 With a solid foundation in statistical analysis, machine learning, and data visualization, I bring a wealth of expertise to the realms of cybersecurity.
 
 #### 🔒 Currently advancing my knowledge in Information System Security, I am committed to integrating my skills in software development, leadership, and problem-solving to fortify digital landscapes against cyber threats. 💼 As a versatile professional, I leverage my proficiency in Python, R, and various data science tools to create robust and secure solutions.
 
