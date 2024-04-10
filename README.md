@@ -20,7 +20,8 @@
 ---
 Hello 👋
  </br>
-I'm a Cyber Security Analyst and Data Scientist.Welcome to my small world where I showcase some of the solutions I've developed.I'm passionate about leveraging data to enhance cybersecurity measures and solve complex problems.
+I'm a Cyber Security Analyst and Data Scientist.Welcome to my small world where I showcase some of the solutions I've developed.
+I am passionate about leveraging data to enhance cybersecurity measures and solve complex problems.
 
 </p>
 </br>
