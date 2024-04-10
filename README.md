@@ -1,26 +1,42 @@
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="100"/>
+</div>
 
-### 🚀 Data Science Alumnus | 🛡️ Aspiring Information System Security Professional | 💻 Software Developer | 🌐 Leader | 🧠 Problem Solver | 🎤 Public Speaker
+ <p align="center">
+ <a href="https://twitter.com/lians___">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/lians-wanjiku-430392247/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ </p>
 
-### Hi there 👋 I'm Ivan Rugut, a seasoned data science professional who has recently ventured into the dynamic field of Information System Security. 📊 With a solid foundation in statistical analysis, machine learning, and data visualization, I bring a wealth of expertise to the realms of cybersecurity.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
 
-#### 🔒 Currently advancing my knowledge in Information System Security, I am committed to integrating my skills in software development, leadership, and problem-solving to fortify digital landscapes against cyber threats. 💼 As a versatile professional, I leverage my proficiency in Python, R, and various data science tools to create robust and secure solutions.
 
-#### 🌐 In addition to my technical skills, I possess strong leadership qualities, guiding teams towards effective cybersecurity strategies. 🤝 Whether it's addressing complex challenges or communicating solutions, my problem-solving skills and public speaking abilities contribute to creating a secure and informed digital environment.
+### About me!
+---
+Hello 👋
+ </br>
+I'm a Data Engineer, I am obsessed with deriving better solutions from data, especially in Formula1 and Computer Vision.
+ Welcome to my small world where I show you some of the solutions I have worked on with data.
 
-#### Let's connect to explore the intersection of data science, cybersecurity, and software development, shaping the future of digital security together!
+</p>
+</br>
 
-#### #InformationSecurity #DataScience #Cybersecurity #SoftwareDevelopment #Leadership #ProblemSolver #PublicSpeaking
-<!--
-**Ivan3864/Ivan3864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<div>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyanse&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+ 
+
