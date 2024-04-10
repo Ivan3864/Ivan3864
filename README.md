@@ -3,10 +3,10 @@
 </div>
 
  <p align="center">
- <a href="https://twitter.com/lians___">
+ <a href="https://twitter.com/_3vanzz">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/lians-wanjiku-430392247/">
+ <a href="https://www.linkedin.com/in/ivan-rugut/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  </p>
@@ -20,8 +20,7 @@
 ---
 Hello 👋
  </br>
-I'm a Data Engineer, I am obsessed with deriving better solutions from data, especially in Formula1 and Computer Vision.
- Welcome to my small world where I show you some of the solutions I have worked on with data.
+I'm a Cyber Security Analyst and Data Scientist.Welcome to my small world where I showcase some of the solutions I've developed.I'm passionate about leveraging data to enhance cybersecurity measures and solve complex problems.
 
 </p>
 </br>
@@ -32,10 +31,6 @@ I'm a Data Engineer, I am obsessed with deriving better solutions from data, esp
 
 
 </br>
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyanse&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
  
