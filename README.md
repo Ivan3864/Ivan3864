@@ -3,7 +3,7 @@
 </div>
 
  <p align="center">
- <a href="https://twitter.com/_3vanzz">
+ <a href="https://twitter.com">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/ivan-rugut/">
